@@ -1,5 +1,11 @@
 # 💫 About Me:
-👨‍💻 Currently working on personal projects<br>🤝 Open to collaborations with fellow developers<br>🌐 Passionate about web development<br>💡 Ask me about web design and usability<br>👥 Seeking teamworking opportunities<br>
+
+🎓 Finishing my studies as a **Técnico Superior en Informática** (IUTA, graduating Dec 2024).
+🌐 Passionate about creating efficient and user-friendly **Web and Mobile applications**. My core tools include **Python (Django, Flask)** for backend development and **Dart (Flutter)** for cross-platform mobile apps.
+💡 During my internship, I gained practical experience implementing IT Service Management systems, developing incident management tools with **osTicket**, automating inventory with **OCSInventory**, and building custom internal tools using **Python (Flask, Pandas)**.
+👨‍💻 Actively working on personal projects, including web applications and a Flutter-based mobile app for hotel management. Check them out on my GitHub!
+👥 A proactive and collaborative team player, always eager to learn and contribute. Open to teamwork and collaboration opportunities.
+💬 Ask me about Python development, web/mobile solutions, or process automation!
 
 
 ## 🌐 Socials:
