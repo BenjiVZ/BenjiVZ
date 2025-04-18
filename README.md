@@ -17,8 +17,14 @@
 
 ### ✨ Developer Quote
 
-> 💡 **"Siempre parece imposible... hasta que lo programas y lo haces realidad."**  
-> ⤷ *Benjamin Velazco*
+<h3 align="center">✨ Developer Quote</h3>
+
+<blockquote>
+  <p style="color:#ff69b4; font-size: 18px; font-weight: bold;">
+    💡 "Siempre parece imposible... hasta que lo programas y lo haces realidad."
+  </p>
+  <p style="text-align: right; color: #888;">⤷ <em>Benjamin Velazco</em></p>
+</blockquote>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=BenjiVZ&limit=5&theme=dark&combine_all_yearly_contributions=true)
