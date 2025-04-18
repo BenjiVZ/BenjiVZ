@@ -15,8 +15,15 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=BenjiVZ&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✨ Developer Quote
+
+> **"Siempre parece  
+> imposible... hasta  
+> que lo programas y  
+> lo haces realidad."**  
+>
+> — *Benjamin Velazco*
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=BenjiVZ&limit=5&theme=dark&combine_all_yearly_contributions=true)
