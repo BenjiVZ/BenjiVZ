@@ -18,7 +18,7 @@
 ### ✨ Developer Quote
 
 > 💡 **"Siempre parece imposible... hasta que lo programas y lo haces realidad."**  
-> — *Benjamin Velazco*
+> ⤷ *Benjamin Velazco*
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=BenjiVZ&limit=5&theme=dark&combine_all_yearly_contributions=true)
